@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi this is rgukt rk valley camus
 this is from amalpuram
+=======
+hi this is rgukt rk valley campus idupulapaya
+>>>>>>> 5a30117c17322d599aaf78d34fe8fe2ec95a593d
