@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is from ananthapuram
+=======
+hi this is rgukt rrgukt campus idupulapaya
+
+>>>>>>> 24947464c9dfa2b0415745a27aceebc785ab828f
