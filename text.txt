@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hi hello this is koushikkkkkk
-=======
 hi jumbo 
->>>>>>> copy1
